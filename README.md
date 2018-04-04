@@ -1,2 +1,2 @@
 # welcometogit
-Welcome all!
+my first repository
